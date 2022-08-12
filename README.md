@@ -15,4 +15,4 @@ Shell model modification + different tracer color for each shell type
 * **Steam客户端用户**请把`content`和`particles`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
 
 ## Preview
-![UAN_Type_2021](https://raw.githubusercontent.com/SEA-group/DanColle-UAN-Type21-CE/master/Affiche.jpg)
+![UAN_Type_2021](https://raw.githubusercontent.com/SEA-group/DanColle-UAN-Type21-CE/master/Affiche.png)
