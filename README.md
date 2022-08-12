@@ -1,4 +1,4 @@
-﻿# [HE/AP/SAP/tracer] Ureshii Association Navy Standard Shell Type 2021 - Compromise Edition / UAN二一式标准炮弹 妥协版
+﻿# Ureshii Association Navy Standard Shell Type 2021 - Compromise Edition / UAN二一式标准炮弹 妥协版
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-UAN-Type21-CE?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-UAN-Type21-CE)
