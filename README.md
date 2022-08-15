@@ -1,4 +1,4 @@
-﻿# [HE/AP/SAP/tracer] Ureshii Association Navy Standard Shell Type 2021 - Compromise Edition / UAN二一式标准炮弹 妥协版
+﻿# Ureshii Association Navy Standard Shell Type 2021 - Compromise Edition / UAN二一式标准炮弹 妥协版
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-UAN-Type21-CE?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-UAN-Type21-CE)
@@ -15,4 +15,4 @@ Shell model modification + different tracer color for each shell type
 * **Steam客户端用户**请把`content`和`particles`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
 
 ## Preview
-![UAN_Type_2021](https://raw.githubusercontent.com/SEA-group/DanColle-UAN-Type21-CE/master/Affiche.jpg)
+![UAN_Type_2021](https://raw.githubusercontent.com/SEA-group/DanColle-UAN-Type21-CE/master/Affiche.png)
